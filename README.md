@@ -37,7 +37,7 @@ Also visit the [ACME website](http://www.acmelab.ca) more information about the 
 
 This folder contains both summarized and raw data data products (e.g. raw camera trap data csv files) used to produce key products in the outputs folder. 
 *Files in main folder*
-1) MMP_AllCAMERADATA_2014_2016_v1.csv: this is a summarised file of images taken from each camera site. Data is organized in wide format, such that there are multiple columns detailing whether or not individual species were detected in each image. This has been summarised into long format in the 1. Data Prep.Rmd file. Note that individual timelapse files did exist on the ACME Google drive for this project, but they were difficult to interpret. This file met AB's criteria for an acceptable summary file to use. 
+1) MMP_AllCAMERADATA_2014_2016_v1.csv: this is a summarised file of images taken from each camera site. Data is organized in wide format, such that there are multiple columns detailing whether or not individual species were detected in each image. This has been summarised into long format in the 1. Data Prep.Rmd file. Note that individual timelapse files did exist on the ACME Google drive for this project, but they were difficult to interpret. 
 2) SiteData2014.csv: This is a file that contained plenty of information for each camera site, but all that is used from this file is the easting and northing location
 3) SiteData2016.csv: Similar to the above file, but as cameras operated in two distinct "sessions" and there was a seperate file for 2016, I felt it necessary to include both files incase gps locations differed between years.
    
