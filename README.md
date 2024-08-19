@@ -22,7 +22,6 @@ Also visit the [ACME website](http://www.acmelab.ca) more information about the 
  Principal Investigator Contact Information  
  Name: Frances E.C. Stewart, PhD   
  Institution: Wilfrid Laurier University 
- Address: 75 University Ave W, Waterloo, ON N2L 3C5
  Email: [fstewart@wlu.ca](mailto:fstewart@wlu.ca) 
 
 **Author Information (code):**  
@@ -71,6 +70,7 @@ This folder provides pdf copies of previously published papers using the Beaverh
 This folder contains metadata for the natural landcover and human features index extracted for each camera site. 
 * HFI2014_V2_Metadata.pdf: Gives information for all HFI features from 2014 EXCEPT pipelines
 * HFI_2010_v2_0_Metadata_v20230809.pdf: Gives information for pipelines which was the only variable not available in the 2014 file
+*LandcoverMapABMIGuide2010v1.0.pdf: Gives information on natural landcover features from 2010
 
 <hr>
 
@@ -116,6 +116,8 @@ This folder contains metadata for the natural landcover and human features index
 Human Features Index data was extracted from the 2014 Alberta Biodiversity Monitoring Instute Human Footprint Inventory for all variables EXCEPT pipelines. Due to licensing issues or something, data for pipelines was extracted from the 2010 inventory. Both files are located in the metadata folder. Since there are so many variables included here, I am not going to write out all the descriptions but leave the onus to interested users to read the metadata. 
 
 An important note from E.A.: The HFI polygons also seem to overlap a potentially a bit more than I noticed in the other years - example is some cultivation polygons overlap with residential and well sites. Not sure if this is important but just noticed it, this means that the total of all the categories will not necessarily equal to the proportion of a buffer covered by all human feature polygons, but each proportion is relative to the feature within the buffer.
+
+Similarly, natural landcover data was extracted from the ABMI 2010 wall-to-wall inventory, and I leave it to readers to review the metadata provided.
 
 * **Number of variables/columns:** 76
 * **Number of observations/rows:** 1280 (one row for each radius at each camera site) 
