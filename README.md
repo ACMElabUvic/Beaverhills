@@ -67,6 +67,7 @@ This folder provides pdf copies of previously published papers using the Beaverh
  * Barnas et al. 2024 How landscape traits affect boreal mammal responses to anthropogenic disturbance.
 
 **metadata**
+
 This folder contains metadata for the natural landcover and human features index extracted for each camera site. 
 * HFI2014_V2_Metadata.pdf: Gives information for all HFI features from 2014 EXCEPT pipelines
 * HFI_2010_v2_0_Metadata_v20230809.pdf: Gives information for pipelines which was the only variable not available in the 2014 file
