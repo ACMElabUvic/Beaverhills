@@ -78,7 +78,7 @@ This folder contains metadata for the natural landcover and human features index
 ### Data specific information for : [outputs/beaverhills_camop.csv]  
 
 * **Number of variables/columns:** 6
-* **Number of observations/rows:** 131 (two per camera site) 
+* **Number of observations/rows:** 129 (two per camera site) 
 
 **Variable List:**
 * **site** : camera site ID
