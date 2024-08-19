@@ -112,7 +112,7 @@ This folder contains metadata for the natural landcover and human features index
 * **timediff** : the difference in time between subsequent independent detections (mins). Note this could be calculated using the datetime column between subsequent detections. NA's represent the first detection of a species at a given camera, as there can be no difference in time from this event to a previous event. 
 * **Event.ID** : a unique identifier for a species' independent detection at a camera site.
 
-  ### Data specific information for : [outputs/beaverhills_covariates.csv]  
+### Data specific information for : [outputs/beaverhills_covariates.csv]  
 
 Human Features Index data was extracted from the 2014 Alberta Biodiversity Monitoring Instute Human Footprint Inventory for all variables EXCEPT pipelines. Due to licensing issues or something, data for pipelines was extracted from the 2010 inventory. Both files are located in the metadata folder. Since there are so many variables included here, I am not going to write out all the descriptions but leave the onus to interested users to read the metadata. 
 
