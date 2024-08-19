@@ -86,8 +86,8 @@ This folder contains metadata for the natural landcover and human features index
 * **session** : as cameras operated from about November 2013 to June 2014, and then December 2015 to April 2016, I added a session identifier
 * **start_date** : first day of camera operation as recorded by a camera trigger (no timelapse function used)
 * **end_date** : last day of camera operation as recorded by a camera trigger (no timelapse function used)
-* **Easting** : camera site Easting location
-* **Northing** : camera site Northing location
+* **Easting** : camera site Easting location (UTM zone 12N)
+* **Northing** : camera site Northing location (UTM zone 12N)
 
 
 ### Data specific information for : [outputs/beaverhills_detections_raw.csv]  
