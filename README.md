@@ -5,7 +5,7 @@ This repository contains data, R scripts and associated outputs, and other mater
 ### GENERAL INFORMATION
 
 **Project Information**   
-The Beaverhills Biosphere is located in east central Alberta, it is a network of protected area spanning approximately 1500 km2. The most recent research in Beaver Hills concluded in 2019 and looked at connectivity within and among protected areas. Camera data was collected in two "sessions" from November 2013 to June 2014, and from December 2015 to April 2016. This repository contains ONLY information on camera operability and wildlife detections. If any users wish to conduct analyses requiring landcover data associated with each camera site, this will have to be re-extacted.
+The Beaverhills Biosphere is located in east central Alberta, it is a network of protected area spanning approximately 1500 km2. The most recent research in Beaver Hills concluded in 2019 and looked at connectivity within and among protected areas. Camera data was collected in two "sessions" from November 2013 to June 2014, and from December 2015 to April 2016. 
 
 For additional details for the Beaverhills Biosphere research program [here](http://www.acmelab.ca/willmore.html).
 
